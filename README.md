@@ -6,7 +6,7 @@
 
 ## Пресеты
 
-Общие: Very Low, Low, Medium, High (значения по умолчанию в коде), Ultra.
+Общие: Very Low, Low, Medium, High (значения по умолчанию), Ultra.
 
 Под железо:
 
