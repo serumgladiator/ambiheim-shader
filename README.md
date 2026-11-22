@@ -1,8 +1,8 @@
-# Ambiheim Shader 1.0
+# Ambiheim Shader
 
-Личный шейдерпак. Сделан чисто под себя: свои ноутбуки и свои пресеты. Это не официальный релиз и не замена Solas.
+Личный форк Solas Shader. Сделан чисто под себя: свои пресеты.
 
-Основа — [Solas Shader V3.9](https://github.com/Septonious/Solas-Shader) от Septonious (CurseForge и Modrinth). Код Solas оставлен как есть. Служебный define `SOLAS_BY_SEPTONIOUS` обязан оставаться `1`, иначе пак не соберётся.
+Основа — [Solas Shader V3.9](https://github.com/Septonious/Solas-Shader) от Septonious (CurseForge и Modrinth).
 
 ## Пресеты
 
